@@ -76,8 +76,8 @@ A solução utiliza pipeline híbrido:
 ### 1. Clone o repositório
 
 ``` bash
-git clone https://github.com/AkaLuiz/Classificador-de-dados-sensiveis
-cd <repo>
+git clone https://github.com/AkaLuiz/Classificador-de-dados-sensiveis.git
+cd Classificador-de-dados-sensiveis
 
 ```
 
